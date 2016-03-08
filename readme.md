@@ -1,6 +1,6 @@
 <h2>Eindopdracht</h2> 
-<b>Interactive Development 4</b>
-<img src="http://studenthome.hku.nl/~julian.vandebeek/img/img.png" />
+<b>Interactive Development 4</b><br>
+<img src="http://studenthome.hku.nl/~julian.vandebeek/img/img.png" /><br>
 <p>Voor de eindropdracht wil ik een interactief geluid landschap maken waar gebruikers invloed op hebben door hun beweging. Deze beweging wil ik waarnemen met een Kinect en ofxOpenCv. Punten in het polygonen model zijn gekoppeld aan audio bestanden, door de beweging kan de gebruiker de vector punten in het polygonen model verplaatsen. Waarop het niveau en frequentie op aan gepast wordt.</p>
 <p><b>Fysieke benodigdheden</b><br>
 - Kinect 1414 model<br>
