@@ -1,3 +1,6 @@
+<h1>Opdracht 1: bounceball3D<br> 
+Opdracht 2: particleNexus</h1>
+
 <h2>Eindopdracht</h2> 
 <b>Interactive Development 4</b><br>
 <img src="http://studenthome.hku.nl/~julian.vandebeek/img/img.png" /><br>
